@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
  printf("Hello World");
- printf("After first commit");
+ printf("After second commit");
  return 0;
  }
